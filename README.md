@@ -1,5 +1,6 @@
 Downloading and running :
 git clone https://github.com/biswass/certification.git
+git checkout master
 cd <to the directory>
 mvn clean compile
 Set JAVAPATH to your jdk directory eg : C:\Program Files\Java\jdk-1.8
